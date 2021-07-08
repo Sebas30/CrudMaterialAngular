@@ -1,2 +1,2 @@
 # Creación de un crud en angular usando Angular Material
-Copyright ©.Sebastian Alvarez Barona 
+Copyright © 2021 Sebastian Alvarez Barona 
